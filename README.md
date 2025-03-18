@@ -6,7 +6,7 @@ A CRUD teljes és ez az egész csak oktatási célra készült.
 [Frontend](https://nemethb.linkpc.net)
 
 # Végpontok listája (swagger):
-[Swagger](https://chess.sulla.hu/swagger/index.html)
+[Swagger](https://chess.sulla.hu/swagger/)
 
 # Chess backend:
 [chess végpont](http://chess.sulla.hu/Chess)<br>
